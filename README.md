@@ -9,3 +9,11 @@ Keywords: Deep learning, CNN, Image Classific
 ation, SVM, Leaf Diseases, Preprocessing, Feature extraction
 
 
+https://colab.research.google.com/drive/1ilhIOE8ItFIczeJwS9sPa2DZmDLtj5RP
+collab details for Neural networks
+
+https://colab.research.google.com/drive/1uUJnrMMEDkwNkP-defPF7qCAJJtNkXQD
+minset training labels image datsets
+
+
+
